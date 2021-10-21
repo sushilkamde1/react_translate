@@ -4,7 +4,7 @@ change text from one language into another language.
 
 ## final project 
 
-https://github.com/sushilkamde1/react_translate
+https://sushilkamde1.github.io/react_translate/
 
 ## used Technology
 
